@@ -1,10 +1,10 @@
 # Hi, I'm Jordan 👋
 
-I'm a Python Software Engineer specialising in data, AI, and scalable cloud infrastructure. I focus on delivering robust, automated solutions, driven by the same discipline I apply to my daily gym training. 
+I'm a Python Software Engineer specialising in data, AI, and scalable cloud infrastructure (with a dabble in full-stack engineering). I focus on delivering robust, automated solutions.
 
 ## 🛠️ What I do
-* **Current Role**: Senior Software Engineer at TrackBase, co-leading engineering for Network Rail's largest consolidated data database.
-* **Cloud & Infrastructure**: Managing reproducible cloud environments (AWS & Azure) using Terraform (HCL). AWS Certified Solutions Architect.
+* **Current Role**: Senior Software Engineer at TrackBase, primarily working with Network Rail's largest consolidated data database, TPI.
+* **Cloud & Infrastructure**: Managing reproducible cloud environments in Azure using Terraform (HCL). A notable mention is also being an AWS Certified Solutions Architect.
 * **Data Engineering**: Architecting real-time data flows with Apache Kafka and building scalable ETL pipelines.
 * **Frontend/Full-Stack**: Building user interfaces with TypeScript, React, and Next.js.
 
